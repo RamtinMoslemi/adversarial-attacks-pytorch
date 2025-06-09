@@ -181,8 +181,8 @@ The distance measure in parentheses.
 | **EADEN**<br />(L1, L2)         | EAD: Elastic-Net Attacks to Deep Neural Networks ([Chen, Pin-Yu, et al., 2018](https://arxiv.org/abs/1709.04114))                                         | :heart_eyes: Contributor [Riko Naka](https://github.com/rikonaka)                                                      |
 | **PIFGSM (PIM)**<br />(Linf)    | Patch-wise Attack for Fooling Deep Neural Network ([Gao, Lianli, et al., 2020](https://arxiv.org/abs/2007.06765))                                         | :heart_eyes: Contributor [Riko Naka](https://github.com/rikonaka)                                                      |
 | **PIFGSM++ (PIM++)**<br />(Linf)| Patch-wise++ Perturbation for Adversarial Targeted Attacks ([Gao, Lianli, et al., 2021](https://arxiv.org/abs/2012.15503))                                | :heart_eyes: Contributor [Riko Naka](https://github.com/rikonaka)                                                      |
+| **ZeroGrad**<br />(Linf)        | ZeroGrad: Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training ([Golgooni, et al., 2021](https://arxiv.org/abs/2103.15476))    | :heart_eyes: Contributor [Ramtin Moslemi](https://github.com/ramtinmoslemi)                                            |
 | **NFGSM**<br />(Linf)           | Make Some Noise: Reliable and Efficient Single-Step Adversarial Training ([Jorge, et al., 2022](https://arxiv.org/abs/2202.01181))                        | :heart_eyes: Contributor [Ramtin Moslemi](https://github.com/ramtinmoslemi)                                            |
-
 
 
 ## :bar_chart: Performance Comparison
