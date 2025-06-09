@@ -62,6 +62,7 @@ __all__ = [
     "PGD",
     "EOTPGD",
     "FFGSM",
+    "NFGSM",
     "TPGD",
     "MIFGSM",
     "UPGD",
