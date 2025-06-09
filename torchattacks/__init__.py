@@ -9,6 +9,7 @@ from .attacks.rfgsm import RFGSM
 from .attacks.pgd import PGD
 from .attacks.eotpgd import EOTPGD
 from .attacks.ffgsm import FFGSM
+from .attacks.zerograd import ZeroGrad
 from .attacks.nfgsm import NFGSM
 from .attacks.tpgd import TPGD
 from .attacks.mifgsm import MIFGSM
@@ -62,6 +63,7 @@ __all__ = [
     "PGD",
     "EOTPGD",
     "FFGSM",
+    "ZeroGrad",
     "NFGSM",
     "TPGD",
     "MIFGSM",
